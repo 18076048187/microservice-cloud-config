@@ -10,7 +10,7 @@ spring:
     name: microservice-config-dev
 ---
 server:
-  port: 4001 #端口号
+  port: 4002 #端口号
 spring:
   profiles: prod #生产环境
   applications:
